@@ -1,0 +1,13 @@
+# Obsidian workspace/cache (สร้างเองเมื่อเปิด vault ครั้งแรก)
+.obsidian/
+
+# macOS
+.DS_Store
+
+# transcript ดิบเป็นข้อมูลส่วนตัว/ลิขสิทธิ์ — ไม่ push ขึ้น repo
+inbox/*
+!inbox/.gitkeep
+
+# ข้อมูลการนอนส่วนตัว (Phase 2)
+data/*
+!data/README.md
