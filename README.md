@@ -4,7 +4,8 @@
 โดยกลั่นความรู้จากคลิป YouTube คุณภาพสูง (Huberman, Matthew Walker ฯลฯ) มาเก็บเป็น
 **Obsidian wiki** (เทคนิค LLM Wiki สไตล์ Karpathy) แล้วให้ Claude ใช้เป็นแหล่งอ้างอิงเวลาให้คำแนะนำ
 
-> 📘 **เพิ่งเริ่ม? อ่าน [SETUP.md](SETUP.md)** — มีขั้นตอนติดตั้งทีละสเต็ป + prompt สำเร็จรูป
+> 📘 **เพิ่งเริ่ม? อ่าน [SETUP.md](SETUP.md)** — ทำตามได้เลย **ไม่ต้องรู้จัก git ไม่ต้องแตะ Terminal**
+> (แค่กด **Code → Download ZIP** แล้วเปิดโฟลเดอร์ใน Claude Code)
 
 ## Workflow แบบย่อ
 ```
